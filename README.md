@@ -36,7 +36,7 @@ Please note that proper security measures are implemented to protect user data a
 
 To get started with Linkmaster Web, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/link-master/link-master-web.git`
+1. Clone this repository: `git clone https://github.com/link-master/webapp.git`
 2. Install the dependencies: `npm install`
 3. Start the development server: `npm run dev`
 4. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000)
